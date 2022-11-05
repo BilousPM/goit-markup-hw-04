@@ -176,7 +176,8 @@ img {
   margin: 0 auto;
   background-color: #2f303a;
   padding: 200px 0;
-  background-image: url(../images/bgi-icon/hero-img.jpg);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url(../images/hero-img.jpg);
 
   background-repeat: no-repeat;
   background-position: center;
